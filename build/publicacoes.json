@@ -1,0 +1,67 @@
+[
+  {
+    "tipo": "PublicacaoAvancada",
+    "id": 6,
+    "conteudo": "eae",
+    "data": "2025-02-10T00:47:11.487Z",
+    "perfilAssociado": 5,
+    "interacoes": [
+      {
+        "id": 3,
+        "tipo": "👍",
+        "perfilAutor": 5
+      }
+    ]
+  },
+  {
+    "tipo": "Publicacao",
+    "id": 5,
+    "conteudo": "ola",
+    "data": "2025-02-10T00:46:53.841Z",
+    "perfilAssociado": 5,
+    "interacoes": []
+  },
+  {
+    "tipo": "PublicacaoAvancada",
+    "id": 4,
+    "conteudo": "ola",
+    "data": "2025-02-10T00:32:38.007Z",
+    "perfilAssociado": 3,
+    "interacoes": []
+  },
+  {
+    "tipo": "Publicacao",
+    "id": 3,
+    "conteudo": "boa noite",
+    "data": "2025-02-10T00:32:22.861Z",
+    "perfilAssociado": 3,
+    "interacoes": []
+  },
+  {
+    "tipo": "PublicacaoAvancada",
+    "id": 2,
+    "conteudo": "Hello novamente",
+    "data": "2025-02-10T00:12:32.908Z",
+    "perfilAssociado": 1,
+    "interacoes": [
+      {
+        "id": 1,
+        "tipo": "👍",
+        "perfilAutor": 1
+      },
+      {
+        "id": 2,
+        "tipo": "😲",
+        "perfilAutor": 3
+      }
+    ]
+  },
+  {
+    "tipo": "Publicacao",
+    "id": 1,
+    "conteudo": "Hello world",
+    "data": "2025-02-10T00:12:19.344Z",
+    "perfilAssociado": 1,
+    "interacoes": []
+  }
+]
