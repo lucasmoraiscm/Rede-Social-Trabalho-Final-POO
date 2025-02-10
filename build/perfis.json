@@ -1,0 +1,64 @@
+[
+  {
+    "tipo": "Perfil",
+    "id": 1,
+    "apelido": "Lucas",
+    "foto": "😎",
+    "email": "lucas@gmail.com",
+    "status": false,
+    "amizades": [
+      2
+    ]
+  },
+  {
+    "tipo": "PerfilAvancado",
+    "id": 2,
+    "apelido": "Natiele",
+    "foto": "😀",
+    "email": "natiele@gmail.com",
+    "status": true,
+    "amizades": [
+      1
+    ]
+  },
+  {
+    "tipo": "Perfil",
+    "id": 3,
+    "apelido": "João",
+    "foto": "😄",
+    "email": "joao@gmail.com",
+    "status": false,
+    "amizades": [
+      4
+    ]
+  },
+  {
+    "tipo": "PerfilAvancado",
+    "id": 4,
+    "apelido": "Maria",
+    "foto": "😍",
+    "email": "maria@gmail.com",
+    "status": true,
+    "amizades": [
+      3
+    ]
+  },
+  {
+    "tipo": "Perfil",
+    "id": 5,
+    "apelido": "jose",
+    "foto": "😟",
+    "email": "jose@gmail.com",
+    "status": false,
+    "amizades": []
+  },
+  {
+    "tipo": "PerfilAvancado",
+    "id": 6,
+    "apelido": "carlos",
+    "foto": "😀",
+    "email": "carlos@gmail.com",
+    "status": true,
+    "amizades": []
+  }
+]
